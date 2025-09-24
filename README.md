@@ -68,7 +68,7 @@ Link to [AMV/Edits]
 ---
 
 <p align="center">
-  <img src="work/animated.png" width="600"/>
+  <img src="work/animation.png" width="600"/>
 </p>
 
 ---
