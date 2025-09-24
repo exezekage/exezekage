@@ -38,7 +38,7 @@ Unique Graphics Poster
 
 ---
 
-### 🔗 [My Other Works](https://github.com/exezekage/exezekage/works)  
+### 🔗 [My Other Works](https://github.com/exezekage/exezekage/tree/main/work)  
 Link to My Other Designs  
 
 ---
