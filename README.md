@@ -68,7 +68,7 @@ Link to [AMV/Edits]
 ---
 
 <p align="center">
-  <img src="work/profile.gif" width="300"/>
+  <img src="work/animated.png" width="600"/>
 </p>
 
 ---
