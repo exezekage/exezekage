@@ -68,7 +68,14 @@ Link to [AMV/Edits]
 ---
 
 <p align="center">
-  <img src="work/animation.png" width="600"/>
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="work/animation.png" />
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" srcset="work/animation_dark.png" />
+    <!-- Fallback -->
+    <img src="work/animation.png" alt="Animation preview" width="100%" style="max-width:600px; height:auto;" />
+  </picture>
 </p>
 
 ---
