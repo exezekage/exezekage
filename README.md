@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/exezekage" width="150" height="150" 
+  <img src="https://avatars.githubusercontent.com/exezekage" width="200" height="200" 
        style="border-radius:50%; background-color:black; padding:10px;"/>
 </p>
 
