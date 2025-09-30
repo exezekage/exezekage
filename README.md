@@ -34,7 +34,7 @@ Professional Business Card With Unique Designs
 
 ### 🔗 Poster  
 Unique Graphics Poster  
-<img src="work/design0.png" width="500"/>  
+<img src="work/poster0.png" width="500"/>  
 
 ---
 
