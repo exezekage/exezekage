@@ -10,9 +10,9 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m a video editor. I edit on Android apps **Alight Motion, Blurr, and Node Video**  
+- 🔭 I’m a **Video Editor**. I edit on Android apps **Alight Motion, Blurr, and Node Video**  
 - 📽️ I also edit on **CapCut PC**  
-- 🌱 I’m learning **Professional Video Editing**  
+- 🌱 I’m a **Graphics Desiner**. I use **Photoshop, Illustrator, Canva** etc.  
 - 🎨 I design **Posters, Flyers, Business Cards**, etc.  
 - 💬 Ask me about **Graphic Design or Video Editing**  
 
