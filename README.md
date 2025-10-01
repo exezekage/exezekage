@@ -33,7 +33,7 @@ Professional Business Card With Unique Designs
 ---
 
 ### 🔗 Logo  
-Professional Logos
+Professional Logos  
 <img src="work/logo.png" width="500"/>  
 
 ---
