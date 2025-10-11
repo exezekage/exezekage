@@ -36,6 +36,9 @@ Professional Business Card With Unique Designs
 Professional Logos  
 <img src="work/logo.png" width="500"/>  
 
+Recently Created Logo
+<img src="work/logo0.png" width="500"/>
+
 ---
 
 ### 🔗 Poster  
