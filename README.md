@@ -66,9 +66,7 @@ Link to [AMV/Edits]
   <a href="https://youtube.com/@zekage-exe">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000"/>
   </a>
-  <a href="https://payhip.com/ZEKAGE">
-    <img src="https://img.shields.io/badge/Payhip [SHOP]-1E90FF?style=for-the-badge&logo=shoppingcart&logoColor=white&labelColor=1E90FF"/>
-  </a>
+  
   <a href="mailto:zekage.exe@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
   </a>
